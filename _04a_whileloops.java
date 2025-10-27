@@ -1,0 +1,14 @@
+package Javabygabsclasses.java;
+
+public class _04a_whileloops {
+    //wap to print 1,2,3,4,5
+    public static void main(String[] args) {
+        int i = 1;
+        while (i <=5) {
+            System.out.println(i);
+            i++;
+
+            }
+        }
+    }
+
